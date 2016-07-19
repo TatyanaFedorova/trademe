@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductionEmulator", "ProductionEmulator\ProductionEmulator.csproj", "{A076B410-E0C4-403A-A85A-82F2EAEF8DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageChecker", "PackageChecker\PackageChecker.csproj", "{4F91F242-F42F-4ED1-BB9B-0463266FF8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A076B410-E0C4-403A-A85A-82F2EAEF8DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A076B410-E0C4-403A-A85A-82F2EAEF8DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A076B410-E0C4-403A-A85A-82F2EAEF8DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A076B410-E0C4-403A-A85A-82F2EAEF8DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F91F242-F42F-4ED1-BB9B-0463266FF8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F91F242-F42F-4ED1-BB9B-0463266FF8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F91F242-F42F-4ED1-BB9B-0463266FF8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F91F242-F42F-4ED1-BB9B-0463266FF8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
